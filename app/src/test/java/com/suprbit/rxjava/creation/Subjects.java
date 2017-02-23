@@ -185,5 +185,4 @@ public class Subjects {
 
 		testSubscriber.assertValueCount(1);
 	}
-
 }
